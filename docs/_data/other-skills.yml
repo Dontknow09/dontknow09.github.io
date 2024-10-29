@@ -5,3 +5,7 @@
 - name: Music Production
   percentage: 60
   color: pink
+
+- name: Filmmaking
+  percentage: 40
+  color: warning
