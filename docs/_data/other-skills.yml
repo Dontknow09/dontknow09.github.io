@@ -1,11 +1,15 @@
 - name: Street Photography
-  percentage: 15
+  percentage: 25
   color: info
 
 - name: Music Production
-  percentage: 60
+  percentage: 55
   color: pink
 
 - name: Filmmaking
   percentage: 40
   color: warning
+
+- name: Social Media Management
+  percentage: 5
+  color: danger
