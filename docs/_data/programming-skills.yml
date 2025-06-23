@@ -3,13 +3,17 @@
   color: danger
 
 - name: Dart (Flutter)
-  percentage: 40
+  percentage: 45
   color: cyan
 
 - name: Java
-  percentage: 50
+  percentage: 55
   color: danger
 
 - name: Golang
   percentage: 5
   color: info
+
+- name: Rust
+  percentage: 5
+  color: orange

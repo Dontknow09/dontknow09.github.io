@@ -13,3 +13,11 @@
 - name: Social Media Management
   percentage: 5
   color: danger
+
+- name: Game Development
+  percentage: 40
+  color: magenta
+
+- name: Entrepreneurship
+  percentage: 15
+  color: cyan
