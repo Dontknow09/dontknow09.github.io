@@ -110,5 +110,5 @@ exclude:
   - LICENSE
   - "*.log"
 
-# include:
-#   - 
+include:
+  - .well-known/
