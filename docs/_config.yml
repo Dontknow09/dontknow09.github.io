@@ -111,4 +111,4 @@ exclude:
   - "*.log"
 
 include:
-  - .well-known/
+  - .well-known
