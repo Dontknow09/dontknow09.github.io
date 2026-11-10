@@ -109,6 +109,8 @@ exclude:
   - CONTRIBUTING.md
   - LICENSE
   - "*.log"
+  
 
 include:
   - .well-known
+  - docs/.well-known
